@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDFunc3", "SDFunc3\SDFunc3.csproj", "{FB756A7F-12DF-4A24-8258-7A8B58BFDBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB756A7F-12DF-4A24-8258-7A8B58BFDBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB756A7F-12DF-4A24-8258-7A8B58BFDBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB756A7F-12DF-4A24-8258-7A8B58BFDBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB756A7F-12DF-4A24-8258-7A8B58BFDBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000DC842-C98B-4E84-AB03-7CC996627599}
+	EndGlobalSection
+EndGlobal
